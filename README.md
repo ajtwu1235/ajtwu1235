@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 
 
-
-블로그에 주로 포스팅을 합니다.
-
 https://taehoung0102.tistory.com/manage/posts/
 
 
